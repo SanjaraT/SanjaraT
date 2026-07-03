@@ -4,9 +4,7 @@ Machine Learning Engineer specializing in Generative AI, NLP, Computer Vision, a
 
 **Quick Highlights**
 
-🎓 B.Sc. in CSE (CGPA: 3.90/4.00)
-
-📚 3 Published AI Research Papers
+🎓 B.Sc. in CSE
 
 🤖 Built production-ready RAG systems
 
@@ -36,4 +34,4 @@ Diabetic Retinopathy Detection – Explainable Computer Vision
 
 📧 sanjaratunola@gmail.com
 
-💼 LinkedIn: linkedin.com/in/sanjara-t
+💼 LinkedIn: https://www.linkedin.com/in/sanjara-t/
