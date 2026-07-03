@@ -1,8 +1,8 @@
-👋 Hi, I'm Sanjara
+**👋 Hi, I'm Sanjara**
 
 Machine Learning Engineer specializing in Generative AI, NLP, Computer Vision, and Retrieval-Augmented Generation (RAG).
 
-Quick Highlights
+**Quick Highlights**
 
 🎓 B.Sc. in CSE (CGPA: 3.90/4.00)
 
@@ -12,7 +12,7 @@ Quick Highlights
 
 🚀 Deployed FastAPI & Streamlit ML applications
 
-Tech Stack
+**Tech Stack**
 Python
 PyTorch
 TensorFlow
@@ -22,7 +22,7 @@ FastAPI
 Docker
 GitHub Actions
 
-Featured Projects
+**Featured Projects**
 
 ResearchGPT – Production-style RAG system
 
@@ -32,7 +32,7 @@ Bengali Sentiment Analysis – Transformer-based NLP
 
 Diabetic Retinopathy Detection – Explainable Computer Vision
 
-# Contact
+**Contact**
 
 📧 sanjaratunola@gmail.com
 
