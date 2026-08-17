@@ -33,14 +33,5 @@
 - **[Enhancing Sentiment Analysis with Local and Global Memory in Heterogeneous Graph Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0950705125014509)**
   Knowledge-Based Systems, vol. 329, Part B, 2025
 
-- **[MaskNet: Enhancing Crime Event Detection with Feature Masking and Dynamic Attention](https://ieeexplore.ieee.org/abstract/document/11160104)**
-  IEEE Conference Publication, 2025
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=SanjaraT&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=SanjaraT&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SanjaraT&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-[![](https://komarev.com/ghpvc/?username=SanjaraT&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
