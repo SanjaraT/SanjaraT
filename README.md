@@ -33,5 +33,5 @@
 - **[Enhancing Sentiment Analysis with Local and Global Memory in Heterogeneous Graph Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0950705125014509)**
   Knowledge-Based Systems, vol. 329, Part B, 2025
 
-
-
+- **[MaskNet: Enhancing Crime Event Detection with Feature Masking and Dynamic Attention](https://ieeexplore.ieee.org/abstract/document/11160104)**
+  IEEE Conference Publication, 2025
